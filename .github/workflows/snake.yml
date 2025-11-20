@@ -4,6 +4,9 @@ on:
   schedule: # executa a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  
+permissions:
+  contents: write
 
 jobs:
   build:

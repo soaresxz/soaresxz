@@ -26,7 +26,7 @@ Sou um estudante apaixonado por tecnologia, sempre em busca de novos desafios e 
 
 </td>
 <td width="50%">
-  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
 </td>
 </tr>
 </table>

@@ -29,6 +29,7 @@ Sou um estudante apaixonado por tecnologia, sempre em busca de novos desafios e 
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
   <img src="https://n8n.io/favicon.ico" alt="n8n" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65"/>

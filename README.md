@@ -61,9 +61,6 @@ Sou um estudante apaixonado por tecnologia, sempre em busca de novos desafios e 
   <a href="mailto:antonygabriel042006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/soaresxz">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </div>
 
 <div align="center">
